@@ -63,7 +63,7 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 
 Program to find the element in a list using Binary Search(Iterative Method).
 
-Developed by:premalatha S
+Developed by:Premalatha S
 
 RegisterNumber: 22009393
 
@@ -113,7 +113,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 Program to find the element in a list using Binary Search (recursive Method).
 
-Developed by:premalatha S
+Developed by:Premalatha S
 
 RegisterNumber:22009393 
 
